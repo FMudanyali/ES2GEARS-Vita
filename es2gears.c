@@ -33,6 +33,10 @@
  *   * Add comments.
  * Alexandros Frantzis <alexandros.frantzis@linaro.org>
  * Jul 13, 2010
+ *
+ * Ported to PS Vita using FREEGLUT-Vita which utilizes Pigs-in-a-Blanket
+ * Furkan Mudanyali <fmudanyali@icloud.com>
+ * Nov 2, 2020
  */
 
 #define GL_GLEXT_PROTOTYPES
